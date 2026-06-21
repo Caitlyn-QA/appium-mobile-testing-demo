@@ -36,7 +36,7 @@ I still have a lot to learn about mobile testing, Appium frameworks, waits, loca
 
 ## Demo Video
 
-[Watch the YouTube Search Test](media/User_Can_Search_For_A_Song_In_YouTube.mp4)
+[Watch the automated YouTube search test](MobileTestingDemo/media/User_Can_Search_For_A_Song_In_YouTube.mp4)
 
 ## What I Learned
 - Android emulator setup and configuration
