@@ -1,4 +1,4 @@
-# Mobile Testing Demo
+# Appium Mobile Testing Demo
 
 A beginner mobile automation project built with Appium, C#, and NUnit.
 
@@ -33,6 +33,10 @@ At the same time, it was one of the most satisfying projects to complete. It rem
 This project is intentionally small and focuses on learning the fundamentals of mobile automation.
 
 I still have a lot to learn about mobile testing, Appium frameworks, waits, locator strategies, page object models, and test design. However, this project represents my first successful step into mobile automation and provides a foundation that I plan to continue building on.
+
+## Demo Video
+
+[Watch the YouTube Search Test](media/User_Can_Search_For_A_Song_In_YouTube.mp4)
 
 ## What I Learned
 - Android emulator setup and configuration
